@@ -1,6 +1,14 @@
+body {
+    background: black;
+}
 #contents {
     font-family: 'Calibri', sans-serif;
-    margin-left: 35%
+    margin-left: 35%;
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    background: white;
 }
 .label1 {
     margin-right: 70px;  
